@@ -5,14 +5,13 @@ import 'firebase/firestore'
 
 // firebase init
 const firebaseConfig = {
-  apiKey: "AIzaSyCwH9MZ5_PAhycYKkvNWtepnOtEzl-BRA8",
-  authDomain: "advancedwebdevelopment-24804.firebaseapp.com",
-  databaseURL: "https://advancedwebdevelopment-24804-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "advancedwebdevelopment-24804",
-  storageBucket: "advancedwebdevelopment-24804.appspot.com",
-  messagingSenderId: "567354288751",
-  appId: "1:567354288751:web:b501ff44c206536821fb9a",
-  measurementId: "G-X41QVBKCTJ"
+  apiKey: "AIzaSyAefMoOQWvuTZDL-HFz7x1gIvEo48V5Vqg",
+  authDomain: "advancedwebdevelopment-c911b.firebaseapp.com",
+  projectId: "advancedwebdevelopment-c911b",
+  storageBucket: "advancedwebdevelopment-c911b.appspot.com",
+  messagingSenderId: "933953792190",
+  appId: "1:933953792190:web:e92bbc7254b17ae1d0d6ef",
+  measurementId: "G-48KMZGNFNJ"
 };
 
 firebase.initializeApp(firebaseConfig)
